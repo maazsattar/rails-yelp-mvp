@@ -13,3 +13,30 @@
  *= require_tree .
  *= require_self
  */
+ .container{
+  margin-top: 20px;
+ }
+
+ a{
+  text-decoration: none;
+ }
+
+
+
+ .show-restaurants-buttons{
+  display:flex;
+  margin-top: 20px;
+ }
+
+ .btn-show{
+  padding:10px;
+ }
+
+ h1{
+  font-family: sans-serif;
+  font-weight: bold;
+ }
+
+ body{
+  font-family: sans-serif;
+ }
